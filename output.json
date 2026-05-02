@@ -1,0 +1,30 @@
+[
+    {
+        "id": 1,
+        "name": "Romilda",
+        "account_balance": 700.0,
+        "account_limit": 2000.0,
+        "card_limit": 4000.0
+    },
+    {
+        "id": 2,
+        "name": "Cremilda",
+        "account_balance": 512.0,
+        "account_limit": 3000.0,
+        "card_limit": 4000.0
+    },
+    {
+        "id": 3,
+        "name": "Lucinda",
+        "account_balance": 784.0,
+        "account_limit": 2500.0,
+        "card_limit": 3000.0
+    },
+    {
+        "id": 4,
+        "name": "Antonilda",
+        "account_balance": 400.0,
+        "account_limit": 1000.0,
+        "card_limit": 2000.0
+    }
+]
